@@ -1,11 +1,11 @@
-## Insurance agency website template | Insurancy
+## Insurance agency website template | Breri-Insurance
 
-![Insurance agency website template Insurancy by atulcodex](https://i.ibb.co/D9KbWmJ/Insurance-agency-website-template-Insurancy-by-atulcodex.png)
+![Insurance agency website template Breri-Insurance by atulcodex](https://i.ibb.co/D9KbWmJ/Insurance-agency-website-template-Breri-Insurance-by-atulcodex.png)
 
 
 ---
 
-Insurancy is sharp Insurance agency website template based on HTML CSS and JavaScript specially designed for insurance company, insurance agency and startup agency. The comes with minimalisum look and feel like how professional insurance agency website looks. Fully customizable and without any framework and library so any one make changes and customization.
+Breri-Insurance is sharp Insurance agency website template based on HTML CSS and JavaScript specially designed for insurance company, insurance agency and startup agency. The comes with minimalisum look and feel like how professional insurance agency website looks. Fully customizable and without any framework and library so any one make changes and customization.
 
 
 [![Website development support - atulcodex](https://i.ibb.co/17LL7BY/Support-atulcodex.png)](https://wa.link/cnhdx2)
@@ -31,7 +31,7 @@ Insurancy is sharp Insurance agency website template based on HTML CSS and JavaS
 
 
 
-[![Insurancy | Insurance website template live demo](https://i.ibb.co/vwN8cgW/live-demo.png)](https://https://insurancy-atulcodex.netlify.app/)
+[![Breri-Insurance | Insurance website template live demo](https://i.ibb.co/vwN8cgW/live-demo.png)](https://https://Breri-Insurance-atulcodex.netlify.app/)
 
 
 
