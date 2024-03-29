@@ -12,7 +12,7 @@
 	--fourth-color: #ffffff;      /*---- White ------*/
 	--blue-color: #2540ce;    /*---- Button Blue -----*/
 	--yellow-color: #fcb900;  /*---- Button Yello ----*/
-
+	--darkgreen-color: darkgreen;
 
 	/*------------ Font Size --------------*/
 	--heading-font-size: 1.5rem;
@@ -345,23 +345,23 @@ nav ul.dropdown-list
 	color: var(--third-color);
 }
 
-.btn-blue
+.btn-darkgreen
 {
-	background: var(--blue-color);
+	background: var(--darkgreen-color);
 	transition: 0.3s ease-in-out;
 }
 
-.btn-blue:hover
+.btn-darkgreen:hover
 {
-	background: var(--yellow-color);
+	background: var(--blue-color);
 }
 
-.btn-blue a
+.btn-darkgreen a
 {
 	color: var(--fourth-color);
 }
 
-.btn-blue:hover > a
+.btn-darkgreen:hover > a
 {
 	color: var(--third-color);
 }
