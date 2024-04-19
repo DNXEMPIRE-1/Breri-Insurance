@@ -66,7 +66,7 @@
 /*----------------------------- Key Numbers ------------------------------*/
 .key-numbers
 {
-	background: linear-gradient(rgba(10, 17, 79, 0.9), rgba(10, 17, 79, 0.9)), url("../img/hero-bg.jpg");
+	background: linear-gradient(rgba(10, 17, 79, 0.9), rgba(10, 17, 79, 0.9)), url("../img/breri1.png");
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -170,7 +170,7 @@
 /*--------------------------------- About CTA -------------------------------------*/
 .about-cta
 {
-	background: linear-gradient(rgba(10, 17, 79, 0.9), rgba(10, 17, 79, 0.9)), url("../img/hero-bg.jpg");
+	background: linear-gradient(rgba(10, 17, 79, 0.9), rgba(10, 17, 79, 0.9)), url("../img/breri1.png");
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-size: cover;
