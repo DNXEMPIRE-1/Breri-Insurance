@@ -1,7 +1,7 @@
 /*------------------ Breadcrumb styling --------------------*/
 .breadcrumbs
 {
-	background: linear-gradient(rgba(150, 60, 221, 0.1), rgba(17, 17, 69, 0.8)), url('../img/services.jpg');
+	background: linear-gradient(rgba(150, 60, 221, 0.1), rgba(17, 17, 69, 0.8)), url('../img/breri5.png');
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -107,7 +107,7 @@
 /*------------------ FAQ styling -------------------------------------*/
 .faqs
 {
-	background: linear-gradient(rgba(10, 17, 79, 0.9), rgba(10, 17, 79, 0.9)), url("../img/hero-bg.jpg");
+	background: linear-gradient(rgba(10, 17, 79, 0.9), rgba(10, 17, 79, 0.9)), url("../img/breri1.png");
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-size: cover;
