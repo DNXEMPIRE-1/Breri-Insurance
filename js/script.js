@@ -4,6 +4,11 @@
 		});
 
 
+		window.onscroll = function() {scrollFunction()};
+
+
+
+
 		function addRequiredClasses()
 		{
 		  if(window.innerWidth < 860)
@@ -14,6 +19,8 @@
 		  {
 		    document.body.classList.remove('mobile');
 		  }
+
+		  
 		}
 
 		let hamberger = document.querySelector('.hamberger');
