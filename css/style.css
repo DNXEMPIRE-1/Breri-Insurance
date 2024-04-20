@@ -735,6 +735,7 @@ nav ul.dropdown-list
 
 .partners
 {
+	background-color: #a1bcd4;
 	margin: 2rem 0;
 }
 /*----------------- About us section styling ---------------*/
@@ -1018,6 +1019,7 @@ footer {
 
 	.partners
 	{
+		background-color: #a1bcd4;
 		margin-top: 4rem;
 	}
 	/*-------------- About section styling ------------------*/
