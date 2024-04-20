@@ -3,30 +3,49 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Insurance Details | Breri-Insurance</title>
+	<title>Breri-Insurance | Be sucure for future!</title>
 	<meta name="description" content="Breri-Insurance is sharp Insurance agency website .">
     <meta name="keywords" content="insurance broker website ">
-    <meta name="author" content="atulcodex - Atul Prajapati | Web Developer">
-	
-	<meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="atulcodex - Atul Prajapati | Freelance web developer">
+    <meta name="author" content="atulcodex - Melvin & DNX | Web Developer">
 
 	<!-- Favicon -->
-	<link rel="icon" type="image/png" href="img/shield.png">
+	<link rel="icon" type="image/png" href="img/logo-no-background.svg">
 
 	<!-- External CSS link -->
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/insurance-detail.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
 
 	<!-- Ionic icons CDN -->
 	<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 	<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 
+
 	<!-- Jquery CDN link -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 </head>
-<body>
+<body class="">
+	<div class="topbar">
+        <!-- Left-aligned links -->
+        <div class="topbar-links">
+            <a href="/index.html">Home</a>
+            <a href="#">Careers</a>
+            <a href="#">Terms</a>
+            <a href="#">Privacy</a>
+        </div>
+        
+        <!-- Right-aligned social media links -->
+        <div class="social-icons">
+            <span class="follow-us">Follow us:</span>
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#"><i class="fab fa-youtube"></i></a>
+        </div>
+    </div>
+
+	
 	<!-- Scroll to top starts -->
 	<button id="topBtn">
 	  	<ion-icon name="arrow-up-outline"></ion-icon>
@@ -34,43 +53,34 @@
 	<!-- Scroll to top ends -->
 
 	<!-- Navigation starts -->
-	<nav>
-		<div class="menu-container nav-wrapper">
-			<div class="brand">
-				<a href="index.html">
-					<img src="img/Rectangle 1.svg" alt="Breri-Insurance-logo" border="0">
-				</a>
-			</div>
+	<nav  >
+	<div class="menu-container nav-wrapper">
+<div class="brand">
+	<a href="index.html">
+		<img src="img/logo-color.png" class="logo" alt="Breri-Insurance-logo" border="0">
+	</a>
+</div>
 
-			<div class="hamberger">
-				<span></span>
-				<span></span>
-				<span></span>
-			</div>
+		<ul class="nav-list">
+			<li class="active"><a href="index.html">Home</a></li>
+			<li><a href="about.html">About</a></li>
+			<li>
+				<a href="insurance.html">Insurance</a>
+				<ul class="dropdown-list">
+					<li><a href="insurance-details.html">Health Policy</a></li>
+					<li><a href="insurance-details.html">Auto Policy</a></li>
+					<li><a href="insurance-details.html">Home Policy</a></li>
+					<li><a href="insurance-details.html">Life Policy</a></li>
+					<li><a href="insurance-details.html">Travel Policy</a></li>
+				</ul>
+			</li>
+			<li><a href="news.html">News</a></li>
+			<li><a href="contact.html">Contacts</a></li>
+			
+		</ul>
+	</div>
+</nav>
 
-			<ul class="nav-list">
-				<li><a href="index.html">Home</a></li>
-				<li><a href="about.html">About</a></li>
-				<li>
-					<a href="insurance.html">Insurance</a>
-					<ul class="dropdown-list">
-						<li><a href="insurance-details.html">Health Policy</a></li>
-						<li><a href="insurance-details.html">Auto Policy</a></li>
-						<li><a href="insurance-details.html">Home Policy</a></li>
-						<li><a href="insurance-details.html">Life Policy</a></li>
-						<li><a href="insurance-details.html">Travel Policy</a></li>
-					</ul>
-				</li>
-				<li><a href="news.html">News</a></li>
-				<li><a href="contact.html">Contacts</a></li>
-				<li>
-					<button class="btn btn-blue">
-						<a href="tel:254">+254</a>
-					</button>
-				</li>
-			</ul>
-		</div>
-	</nav>
 	<!-- Navigation ends -->
 
 	<!-------------------- Breadcrumb section ------------------->
