@@ -810,14 +810,74 @@ nav ul.dropdown-list
 
 
 /*----------------- Footer styling ------------------*/
-footer
-{
-	background: #251963;
+footer {
+	background-color: #598adf;
+	color: #000000;
+	padding: 50px 0;
+  }
+  
+  .container1 {
+	max-width: 1200px;
+	margin: 0 auto;
 	display: flex;
-	justify-content: center;
-	align-items: center;
-	padding: 0.6rem 0;
-}
+	justify-content: space-between;
+	flex-wrap: wrap;
+  }
+  
+  .footer-section {
+	flex: 1;
+	padding: 0 20px;
+  }
+  
+  .footer-section h3 {
+	font-size: 24px;
+	margin-bottom: 20px;
+  }
+  
+  .footer-section p {
+	font-size: 16px;
+	margin-bottom: 10px;
+  }
+  
+  .footer-section ul {
+	list-style: none;
+	padding: 0;
+  }
+  
+  .footer-section ul li {
+	margin-bottom: 5px;
+  }
+  
+  .footer-section ul li a {
+	color: #fff;
+	text-decoration: none;
+  }
+  
+  .footer-section form {
+	display: flex;
+  }
+  
+  .footer-section input[type="email"] {
+	width: 200px;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	margin-right: 10px;
+  }
+  
+  .footer-section button {
+	background-color: #fff;
+	color: #333;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+  }
+  
+  .footer-bottom {
+	text-align: center;
+	margin-top: 30px;
+  }
 /*----------------- Footer styling ------------------*/
 
 
