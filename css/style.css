@@ -57,6 +57,85 @@ body
 	text-transform: uppercase;
 }
 
+.topbar {
+	background-color: #f8f9fa;
+	color: #6c757d;
+	padding: 10px 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+/* Style for the links */
+.topbar-links {
+	display: flex;
+	align-items: center;
+}
+
+/* Style for individual link */
+.topbar-links a {
+	color: #6c757d;
+	text-decoration: none;
+	margin-right: 20px;
+	font-size: 14px;
+}
+
+/* Style for Follow us text */
+.follow-us {
+	color: #6c757d;
+	margin-right: 10px;
+	font-size: 14px;
+}
+
+/* Style for social media icons */
+.social-icons {
+	display: flex;
+	align-items: center;
+}
+
+/* Style for individual social media icon */
+.social-icons a {
+	color: #007bff;
+	text-decoration: none;
+	margin-right: 10px;
+	font-size: 18px;
+}
+
+.top-bar {
+	background-color: #fff;
+	color: #000;
+	padding: 10px 0;
+}
+
+/* Style for the logo */
+.logo {
+	width: 400px ;
+	height: 200px;
+}
+
+/* Style for the opening hours, call us, and email us sections */
+.contact-info {
+	display: flex;
+	justify-content: space-between;
+}
+
+/* Style for individual contact info section */
+.contact-info-item {
+	text-align: center;
+}
+
+/* Style for contact info icon */
+.contact-info-icon {
+	font-size: 30px;
+	color: #007bff;
+}
+
+/* Style for contact info text */
+.contact-info-text {
+	margin-top: 10px;
+}
+
+
 img
 {
 	max-width: 100%;
@@ -110,6 +189,7 @@ p
   margin: 0 auto;
 }
 
+
 .nav-wrapper
 {
   display: flex;
@@ -142,7 +222,7 @@ p
 
 .nav-wrapper ul.nav-list li a:hover, .nav-wrapper ul.nav-list li.active a
 {
-  color: var(--blue-color);
+  color: var(--yellow-color);
 }
 
 nav ul.dropdown-list
@@ -168,7 +248,7 @@ nav ul.dropdown-list
 
 .nav-wrapper ul.dropdown-list li a
 {
-  color: var(--third-color);
+  color: var(--yellow-color);
 }
 
 .nav-wrapper ul.nav-list li:hover .dropdown-list
@@ -186,8 +266,10 @@ nav ul.dropdown-list
 
 .nav-wrapper .nav-list li .btn:hover a
 {
-	color: var(--third-color);
+	color: var(--yellow-color);
 }
+
+
 
 @keyframes moveUp
 {
