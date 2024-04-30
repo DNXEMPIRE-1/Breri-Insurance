@@ -2,7 +2,7 @@
 .breadcrumbs
 {
 	background: linear-gradient(rgba(150, 60, 221, 0.1), rgba(17, 17, 69, 0.8)), url('../img/contactp.png');
-	background-position: center top;
+	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
