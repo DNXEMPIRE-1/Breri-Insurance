@@ -57,6 +57,7 @@ body
 	text-transform: uppercase;
 }
 
+
 .topbar {
 	background-color: #f8f9fa;
 	color: #6c757d;
@@ -509,7 +510,10 @@ nav ul.dropdown-list
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-size: cover;
+	display: flex;
 }
+
+
 
 .hero .hero-container
 {	
