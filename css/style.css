@@ -507,11 +507,12 @@ nav ul.dropdown-list
 .hero
 {
 	background:   url("../img/breri1.png");
-	background-position: center top;
+	background-position: center center;
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size:cover;
 	display: flex;
 }
+
 
 
 
