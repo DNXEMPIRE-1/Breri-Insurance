@@ -140,7 +140,8 @@ body
 img
 {
 	max-width: 100%;
-	height: auto;
+	height: Motor
+			;
 }
 
 h1, h2, h3, h4, h5, h6
@@ -187,7 +188,8 @@ p
 {
   width: 1152px;
   max-width: 90%;
-  margin: 0 auto;
+  margin: 0 Motor
+			;
 }
 
 
@@ -255,7 +257,8 @@ nav ul.dropdown-list
 .nav-wrapper ul.nav-list li:hover .dropdown-list
 {
   opacity: 1;
-  pointer-events: auto;
+  pointer-events: Motor
+			;
   animation: moveUp .5s ease-in-out forwards;
 }
 
@@ -332,9 +335,11 @@ nav ul.dropdown-list
 .mobile ul.nav-list.open
 {
   opacity: 1;
-  pointer-events: auto;
+  pointer-events: Motor
+			;
   z-index: 999;
-  overflow-y: auto;
+  overflow-y: Motor
+			;
 }
 
 
@@ -824,7 +829,8 @@ footer {
   
   .container1 {
 	max-width: 1200px;
-	margin: 0 auto;
+	margin: 0 Motor
+			;
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
@@ -899,7 +905,8 @@ footer {
 	.container, .hero-container
 	{
 		max-width: 1180px;
-		margin: 0 auto;
+		margin: 0 Motor
+			;
 	}
 
 	.container
@@ -1002,7 +1009,8 @@ footer {
 	.our-services .container .head-desc
 	{
 		max-width: 66%;
-		margin: 0 auto;
+		margin: 0 Motor
+			;
 	}
 
 	.services, .partners-grid
@@ -1034,7 +1042,8 @@ footer {
 	.testimonial .container .para-line
 	{
 		max-width: 840px;
-		margin: 0 auto;
+		margin: 0 Motor
+			;
 		font-size: 1.1rem;
 	}
 
